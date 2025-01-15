@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/tokyoshades" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/kitaenten" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/cd92kcy4bhtcyyhkyhiq5xhu6?si=85eb603f1a824c4b" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <p>
 
