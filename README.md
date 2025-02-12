@@ -1,5 +1,5 @@
 
-# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'm+Kita."><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=furinajpg&color=191717">
+# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'm+Kita."><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=deadnorth&color=191717">
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 ## Technologies I use
 
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,ts,next,html,css,sass,atom,ps,ae,ai,pr,figma&perline=7">
-<img  align="right" width="40%" src="https://count.getloli.com/get/@:tokyoshades?theme=asoul">
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:deadnorth?theme=asoul">
 
 <p align="left">
 I'm not compeletly good at all.
@@ -32,7 +32,7 @@ It counts wrong i think...
 
 <div align="left" width="100%">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=tokyoshades&show_icons=false&theme=rose_pine&hide_border=true&bg_color=0D1117">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyoshades&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=kitaenten&show_icons=false&theme=rose_pine&hide_border=true&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitaenten&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tokyoshades&theme=react-dark">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kitaenten&theme=react-dark">
